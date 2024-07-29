@@ -1,4 +1,5 @@
 Proyecto de Carrito Autónomo - Equipo JARCVIS
+
 Descripción del Proyecto
 El equipo JARCVIS ha desarrollado un carrito autónomo capaz de navegar por una pista y superar varios desafíos. Este README proporciona instrucciones detalladas para configurar, operar y comprender las funcionalidades del carrito, diseñado para participar en dos desafíos específicos: el Desafío Abierto y el Desafío de Obstáculos.
 Integrantes del Equipo

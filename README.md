@@ -1,12 +1,12 @@
 Proyecto de Carrito Autónomo - Equipo JARCVIS
 
 Descripción del Proyecto
-El equipo JARCVIS ha desarrollado un carrito autónomo capaz de navegar por una pista y superar varios desafíos. Este README proporciona instrucciones detalladas para configurar, operar y comprender las funcionalidades del carrito, diseñado para participar en dos desafíos específicos: el Desafío Abierto y el Desafío de Obstáculos.
+El equipo JARCVIS desarrollo un carrito autónomo capaz de recorrer por una pista y superar varios desafíos. Este README proporciona instrucciones detalladas para configurar, operar y comprender las funcionalidades del carrito, diseñado para participar en el concurso WRO Future Engineers en la temporada 2024 que consiste en dos desafíos específicos: el Desafío Abierto y el Desafío de Obstáculos.
 Integrantes del Equipo
 •	Yuleimy Ramos
 •	Susan Montero
 Por Qué Decidimos Participar en Esta Competencia
-Como equipo JARCVIS, decidimos participar en esta competencia por varias razones clave:
+Decidimos participar en esta competencia por varias razones clave:
 1.	Desarrollo de Habilidades Técnicas: La competencia nos brinda la oportunidad de aplicar y mejorar nuestras habilidades en programación, electrónica, y diseño mecánico. Trabajar en un proyecto práctico nos permite poner en práctica lo aprendido en el aula y adquirir nuevas habilidades en el proceso.
 2.	Innovación y Creatividad: Nos apasiona la innovación y esta competencia nos desafía a pensar creativamente para resolver problemas complejos. Desarrollar un carrito autónomo que pueda navegar por una pista con obstáculos requiere de soluciones ingeniosas y creativas.
 3.	Trabajo en Equipo: Participar en la competencia nos permite fortalecer nuestras habilidades de trabajo en equipo. Colaborar estrechamente para alcanzar un objetivo común nos enseña la importancia de la comunicación, la cooperación y la gestión del tiempo.
@@ -87,9 +87,8 @@ Agradecimientos
 •	Un agradecimiento especial a la Profesora Suely Contreras por su guía y apoyo.
 >[!NOTE]
 >Aqui puedes encontrar los link:
-Prueba del Desafío Abierto: Demostración del carrito completando tres vueltas en la pista con ubicaciones aleatorias de las paredes internas.  
-https://www.youtube.com/watch?v=ct74CuLgeeE
-Modelo 3D 
+Prueba del Desafío Abierto: Demostración del carrito completando tres vueltas en la pista con ubicaciones aleatorias de las paredes internas.https://www.youtube.com/watch?v=ct74CuLgeeE
+>Modelo 3D 
 https://www.youtube.com/watch?v=4XWfNlhYD5k
 
 

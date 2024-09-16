@@ -87,8 +87,8 @@ Agradecimientos
 •	Un agradecimiento especial a la Profesora Suely Contreras por su guía y apoyo.
 >[!NOTE]
 >Aqui puedes encontrar los link:
-Prueba del Desafío Abierto: Demostración del carrito completando tres vueltas en la pista con ubicaciones aleatorias de las paredes internas.https://www.youtube.com/watch?v=ct74CuLgeeE
->Modelo 3D 
-https://www.youtube.com/watch?v=4XWfNlhYD5k
+Prueba del Desafío Abierto: Demostración del carrito completando tres vueltas en la pista con ubicaciones aleatorias de las paredes internas.
+https://www.youtube.com/watch?v=ct74CuLgeeE
+>Modelo 3D: https://www.youtube.com/watch?v=4XWfNlhYD5k
 
 

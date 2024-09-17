@@ -2,7 +2,7 @@ Proyecto de Carrito Autónomo - Equipo JARCVIS
 
 Descripción del Proyecto
 El equipo JARCVIS desarrollo un carrito autónomo capaz de recorrer por una pista y superar varios desafíos. Este README proporciona instrucciones detalladas para configurar, operar y comprender las funcionalidades del carrito, diseñado para participar en el concurso WRO Future Engineers en la temporada 2024 que consiste en dos desafíos específicos: el Desafío Abierto y el Desafío de Obstáculos.
-Integrantes del Equipo
+>Integrantes del Equipo
 •	Yuleimy Ramos
 •	Susan Montero
 Por Qué Decidimos Participar en Esta Competencia

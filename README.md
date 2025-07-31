@@ -5,7 +5,7 @@ Este espacio pertenece al equipo Futuros Ingenieros, conformado por las estudian
 
 Nuestro objetivo es aplicar el conocimiento en robótica, programación y diseño para resolver retos reales de forma creativa y funcional. Cada archivo, línea de código y diseño refleja nuestro compromiso con el aprendizaje, la innovación y el trabajo en equipo.
 
-Por Qué Decidimos Participar en Esta Competencia
+Por qué decidimos participar en esta competencia
 Decidimos participar en esta competencia por varias razones clave:
 1.	Desarrollo de Habilidades Técnicas: La competencia nos brinda la oportunidad de aplicar y mejorar nuestras habilidades en programación, electrónica, y diseño mecánico. Trabajar en un proyecto práctico nos permite poner en práctica lo aprendido en el aula y adquirir nuevas habilidades en el proceso.
 2.	Innovación y Creatividad: Nos apasiona la innovación y esta competencia nos desafía a pensar creativamente para resolver problemas complejos. Desarrollar un carrito autónomo que pueda navegar por una pista con obstáculos requiere de soluciones ingeniosas y creativas.

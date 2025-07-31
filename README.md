@@ -1,10 +1,9 @@
 Proyecto de Carrito Autónomo - Equipo JARCVIS
+🚀 Bienvenidos al repositorio de Futuros Ingenieros - WRO 2025
+Este espacio pertenece al equipo Futuros Ingenieros, conformado por las estudiantes Yuleimy Ramos y Susan Montero, bajo la guía de su profesora asesora Suely Contreras. Aquí compartimos el desarrollo de nuestro proyecto para la World Robot Olympiad, desde la idea inicial hasta las soluciones implementadas en hardware y software.
 
-Descripción del Proyecto
-El equipo JARCVIS desarrollo un carrito autónomo capaz de recorrer por una pista y superar varios desafíos. Este README proporciona instrucciones detalladas para configurar, operar y comprender las funcionalidades del carrito, diseñado para participar en el concurso WRO Future Engineers en la temporada 2024 que consiste en dos desafíos específicos: el Desafío Abierto y el Desafío de Obstáculos.
-Integrantes del Equipo
-•	Yuleimy Ramos
-•	Susan Montero
+Nuestro objetivo es aplicar el conocimiento en robótica, programación y diseño para resolver retos reales de forma creativa y funcional. Cada archivo, línea de código y diseño refleja nuestro compromiso con el aprendizaje, la innovación y el trabajo en equipo.
+
 Por Qué Decidimos Participar en Esta Competencia
 Decidimos participar en esta competencia por varias razones clave:
 1.	Desarrollo de Habilidades Técnicas: La competencia nos brinda la oportunidad de aplicar y mejorar nuestras habilidades en programación, electrónica, y diseño mecánico. Trabajar en un proyecto práctico nos permite poner en práctica lo aprendido en el aula y adquirir nuevas habilidades en el proceso.
@@ -83,12 +82,11 @@ Mejoras Futuras
 Técnicas avanzadas de estacionamiento en paralelo
 Mejora del código de evasión de obstáculos y planificación de rutas
 
-Agradecimientos
-•	Un agradecimiento especial a la Profesora Suely Contreras por su guía y apoyo.
+¡Gracias por acompañarnos en este viaje hacia el futuro de la ingeniería!
+
 >[!NOTE]
 >Aqui puedes encontrar los link:
 Prueba del Desafío Abierto: Demostración del carrito completando tres vueltas en la pista con ubicaciones aleatorias de las paredes internas.
-https://www.youtube.com/watch?v=ct74CuLgeeE
->Modelo 3D: https://www.youtube.com/watch?v=4XWfNlhYD5k
+
 
 

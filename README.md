@@ -1,4 +1,5 @@
 Proyecto de Carrito Autónomo - Equipo JARCVIS
+
 🚀 Bienvenidos al repositorio de Futuros Ingenieros - WRO 2025
 Este espacio pertenece al equipo Futuros Ingenieros, conformado por las estudiantes Yuleimy Ramos y Susan Montero, bajo la guía de su profesora asesora Suely Contreras. Aquí compartimos el desarrollo de nuestro proyecto para la World Robot Olympiad, desde la idea inicial hasta las soluciones implementadas en hardware y software.
 

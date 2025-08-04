@@ -86,7 +86,7 @@ Mejora del código de evasión de obstáculos y planificación de rutas
 ¡Gracias por acompañarnos en este viaje hacia el futuro de la ingeniería!
 
 >[!NOTE]
->Aqui puedes encontrar los link:
+>Aqui puedes encontrar los link:https://youtube.com/shorts/1T8LgoVh-AE?feature=shared
 Prueba del Desafío Abierto: Demostración del carrito completando tres vueltas en la pista con ubicaciones aleatorias de las paredes internas.
 
 
